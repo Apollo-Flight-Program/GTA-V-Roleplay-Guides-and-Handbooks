@@ -153,5 +153,3 @@ The story is already happening — go be part of it.
 
 *Continue reading:*
 - [IC vs OOC](02-IC-vs-OOC.md)
-- [Metagaming & Powergaming](metagaming-and-powergaming.md)
-- [Character Creation Guide](character-creation.md)

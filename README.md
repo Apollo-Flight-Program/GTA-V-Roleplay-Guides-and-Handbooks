@@ -2,6 +2,10 @@
 
 A **free, open, community-driven** collection of roleplay guides and handbooks for GTA V across all multiplayer platforms — FiveM, RageMP, alt:V, and beyond.
 
+Note: *Please notice that there can be inaccurarcy in the contents. If that happens, please let me know*
+
+**Upcoming Updates**: Further on, I will be uploading some Microsoft Word (or PDF) templates. If you require like Spreadsheets Templates (Google Sheet), I do this commercially, because it involves automation using Google Apps Script. Read [here](SUPPORT.md)
+
 ---
 
 ## Why This Exists
@@ -41,7 +45,33 @@ GTA-V-Roleplay-Guides-and-Handbooks/
 │   ├── Permadeath-Guide.md
 │   ├── Advanced-Roleplay-Techniques.md
 │   ├── Scenario-Based-Examples.md
-│   └── Roleplay-Cultures.md
+│   ├── Roleplay-Cultures.md
+│   │
+│   ├── Articles/                    ← Long-form editorial articles on RP culture, history, and community issues
+│   │   ├── The-One-Rule-That-Keeps-Breaking-Everything.md  ← The IC/OOC boundary: philosophy and practice
+│   │   ├── Common-Issues-of-Roleplay-Servers.md            ← 14 recurring problems every server faces
+│   │   ├── The-Cop-Shortage-Problem.md                     ← The LEO imbalance crisis: causes, spirals, solutions
+│   │   ├── When-RP-Servers-Die.md                          ← Six patterns of server death with real examples
+│   │   ├── The-Metagaming-Problem.md                       ← The most broken rule: its six forms and how to reduce it
+│   │   └── The-Content-Creator-Effect.md                   ← How streaming transformed GTA RP forever
+│   │
+│   └── Notable-Roleplay-Servers/    ← Deep-dive profiles of servers that shaped GTA V roleplay history
+│       ├── The-Servers-That-Shaped-GTA-V-Roleplay.md       ← Overview of the most influential servers
+│       ├── NoPixel-Server/
+│       │   ├── 01.md                ← NoPixel history, culture, and the 2021 boom
+│       │   └── 02.md                ← NoPixel bans, controversies, and the NoPixel V announcement
+│       ├── DOJRP-Server/
+│       │   └── DOJRP-Profile.md     ← The server that made LEO RP serious
+│       ├── Eclipse-RP-Server/
+│       │   └── EclipseRP-Profile.md ← The high-population economy-driven server
+│       ├── FamilyRP-Server/
+│       │   └── FamilyRP-Profile.md  ← The streamer-friendly, story-focused community
+│       ├── GTAWorld-Server/
+│       │   └── GTAWorld-Profile.md  ← The text-RP server bridging SA:MP and FiveM traditions
+│       ├── LSRP-Server/
+│       │   └── LSRP-Profile.md      ← The SA:MP grandfather that founded the entire genre (2008–2021)
+│       └── OTV-Friends-Server/
+│           └── OTV-Friends-Profile.md ← The celebrity friend-group experiment and what it reveals
 │
 ├── Guides-To-Each-Role/             ← Role-specific guides and in-character handbooks
 │   ├── Aviation/
