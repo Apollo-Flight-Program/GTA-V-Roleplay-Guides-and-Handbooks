@@ -14,6 +14,13 @@ Disclaimer: This project was assisted by AI for more accurate contents. And the 
 
 ---
 
+## Content Nuance
+
+I want to be honest that many of the contents in here have been derivated for universal use. However, the north pole of the roleplay style is more into the American style, especially in terms of law enforcement, military, government, and all other governmental-level departments.
+
+
+---
+
 ## Folder Structure
 
 ```
@@ -67,20 +74,107 @@ GTA-V-Roleplay-Guides-and-Handbooks/
 │       └── Special-Forces-Guide.md
 │
 ├── References/                      ← Quick-reference sheets used across all roles
-│   ├── NATO-Alphabet.md
-│   ├── 10-Codes.md
-│   ├── Radio-Etiquette.md
-│   ├── Dispatch-Codes-Reference.md
-│   ├── Common-RP-Terms-Glossary.md
-│   ├── Los-Santos-Map-Guide.md
-│   ├── Vehicle-Classes-Reference.md
-│   ├── Penal-Code-Template.md
-│   └── Airforce-Operational-Terms-and-Jargon.md  ← Military aviation jargon and callouts
+│   │
+│   ├── Glossaries/                  ← General cross-role glossaries
+│   │   ├── In-Character-Glossaries/
+│   │   │   └── General-IC-Glossary.md           ← Street/city vocabulary any character may use
+│   │   └── Out-of-Character-Glossaries/
+│   │       ├── General-OOC-Glossary.md           ← Common RP terms, mechanics, and conventions
+│   │       └── RP-Terms.md
+│   │
+│   ├── Communication/               ← Radio, telephone, and inter-agency communication
+│   │   ├── NATO-Alphabet.md
+│   │   ├── Radio-Etiquette.md
+│   │   ├── Inter-Agency-Communication-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Communication-Glossary.md
+│   │       └── OOC-Communication-Glossary.md
+│   │
+│   ├── Law-Enforcement/             ← LSPD / BCSO / SASP reference material
+│   │   ├── 10-Codes.md
+│   │   ├── Dispatch-Codes-Reference.md
+│   │   ├── Penal-Code-Template.md
+│   │   ├── Use-of-Force-Reference.md
+│   │   ├── Miranda-Rights-and-Arrests-Reference.md
+│   │   ├── Evidence-and-Procedure-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Law-Enforcement-Glossary.md
+│   │       └── OOC-Law-Enforcement-Glossary.md
+│   │
+│   ├── Emergency-Medical-Services/  ← EMS and trauma reference material
+│   │   ├── EMS-Response-Codes.md
+│   │   ├── Triage-and-Treatment-Reference.md
+│   │   ├── Medical-Abbreviations-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-EMS-Glossary.md
+│   │       └── OOC-EMS-Glossary.md
+│   │
+│   ├── Military/                    ← SAMAF / military operations reference material
+│   │   ├── Airforce-Operational-Terms-and-Jargon.md
+│   │   ├── Military-Ranks-Reference.md
+│   │   ├── Tactical-Operations-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Military-Glossary.md
+│   │       └── OOC-Military-Glossary.md
+│   │
+│   ├── Aviation/                    ← Civilian and military aviation reference material
+│   │   ├── ATC-Communication-Reference.md
+│   │   ├── Civilian-Aviation-Codes-Reference.md
+│   │   ├── Military-Aviation-Terms-and-Jargon.md
+│   │   └── Glossaries/
+│   │       ├── IC-Aviation-Glossary.md
+│   │       └── OOC-Aviation-Glossary.md
+│   │
+│   ├── Criminal-and-Underground/    ← Gang, organized crime, and street-level reference material
+│   │   ├── Criminal-Organization-Structure-Reference.md
+│   │   ├── Street-Slang-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Criminal-Glossary.md
+│   │       └── OOC-Criminal-Glossary.md
+│   │
+│   ├── Legal-and-Judicial/          ← Court, law, and justice system reference material
+│   │   ├── Court-Procedures-Reference.md
+│   │   ├── Legal-Terminology-Reference.md
+│   │   ├── Charges-and-Sentencing-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Legal-Glossary.md
+│   │       └── OOC-Legal-Glossary.md
+│   │
+│   ├── Business-and-Economy/        ← Business types, economy, and financial reference material
+│   │   ├── Business-Types-Reference.md
+│   │   ├── Economy-Terms-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Business-Glossary.md
+│   │       └── OOC-Business-Glossary.md
+│   │
+│   ├── Government-and-Politics/     ← Government structure and political process reference material
+│   │   ├── Government-Structure-Reference.md
+│   │   ├── Political-Procedures-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Government-Glossary.md
+│   │       └── OOC-Government-Glossary.md
+│   │
+│   ├── Media-and-Journalism/        ← Press, broadcasting, and journalism reference material
+│   │   ├── Journalism-Standards-Reference.md
+│   │   └── Glossaries/
+│   │       ├── IC-Media-Glossary.md
+│   │       └── OOC-Media-Glossary.md
+│   │
+│   └── World-and-Geography/         ← Los Santos map, factions, and world reference material
+│       ├── Los-Santos-Map-Guide.md
+│       ├── Vehicle-Classes-Reference.md
+│       ├── Locations-Quick-Reference.md
+│       ├── Factions-Overview-Reference.md
+│       └── Glossaries/
+│           ├── IC-World-Glossary.md
+│           └── OOC-World-Glossary.md
 │
 └── Guides-for-Server-Owners/        ← Guides for running and managing RP servers
     ├── Server-Owner-Guide.md
     ├── Admin-Guide.md
-    └── Game-Master-Guide.md
+    ├── Game-Master-Guide.md
+    ├── Server-Scale-Guide.md        ← How RP dynamics, pacing, and management change at each server size
+    └── Initializing-Roleplay-Guide.md ← How GMs and admins bootstrap a living world from zero
 ```
 
 Each folder is self-contained. Follow the existing structure when adding files — role-specific content goes in `Guides-To-Each-Role/`, universal quick-reference material goes in `References/`.
