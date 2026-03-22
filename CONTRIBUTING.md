@@ -66,33 +66,6 @@ A maintainer will review your PR and may suggest changes before merging.
 
 ---
 
-## Folder Structure
-
-The repository is organized into the following top-level directories:
-
-```
-Roleplay-Guides-and-Handbooks/
-├── Roleplay in General/          ← Platform-agnostic guides, general RP concepts
-│   ├── Notable-Roleplay-Servers/ ← Server profiles and history
-│   └── Articles/                 ← Long-form articles and essays
-├── Guides-To-Each-Role/          ← Role-specific guides (LEO, EMS, civilian, criminal, etc.)
-├── Guides-for-Server-Owners/     ← Server administration and management guides
-├── References/                   ← Reference material, glossaries, code lists
-├── README.md
-├── CONTRIBUTING.md               ← You are here
-├── SUPPORT.md
-└── LICENSE
-```
-
-When adding new content:
-
-- Place it in the most appropriate existing directory.
-- If no existing directory fits, propose a new one in your PR description.
-- Server-specific profiles go in `Roleplay in General/Notable-Roleplay-Servers/` within a directory named after the server.
-- Role-specific guides go in `Guides-To-Each-Role/`.
-
----
-
 ## File Naming Conventions
 
 - Use **kebab-case** for file and directory names: `my-guide-title.md`, not `My Guide Title.md` or `my_guide_title.md`.
