@@ -1,6 +1,13 @@
 # Beginner's Guide to GTA V Roleplay
 
-Welcome. If you are reading this, you are probably about to join a GTA V roleplay server for the first time — or you have joined one and felt completely lost. Either way, this guide will get you up to speed on everything you need to know before you start playing.
+Welcome. 
+
+If you are reading this, you are probably about to join a GTA V roleplay server for the first time — or you have joined one and felt completely lost. Either way, this is a guide and an introduction into the GTA V Roleplay in general for role-players.
+
+If you a server owner, an admin, or a game master, here is another dedicated guide for you:
+- [Server Owner Guide](Guides-for-Server-Owners/Server-Owner-Guide.md)
+- [Admin Guide](Guides-for-Server-Owners\Admin-Guide.md)
+- [Game Master Guide](Guides-for-Server-Owners\Admin-Guide.md)
 
 ---
 
@@ -28,10 +35,10 @@ Every server has a rulebook. Read it fully. Ignorance of the rules is never an a
 Do not log in without at least a basic idea of who your character is. See the [Character Creation Guide](character-creation.md) for help.
 
 **3. Understand IC and OOC**
-Know the difference between speaking as your character and speaking as yourself. See [IC vs OOC](ic-vs-ooc.md).
+Know the difference between speaking as your character and speaking as yourself. See [IC vs OOC](IC-vs-OOC.md).
 
 **4. Learn what metagaming and powergaming are**
-These are the two most common ways new players break the rules without realizing it. See [Metagaming & Powergaming](metagaming-and-powergaming.md).
+These are the two most common ways new players break the rules without realizing it. See [Metagaming & Powergaming](Metagaming-and-Powergaming.md).
 
 ---
 

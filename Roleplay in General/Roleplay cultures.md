@@ -117,7 +117,7 @@ There is no wrong answer. The only mistake is joining a server whose culture doe
 
 ---
 
-## The Broader Picture
+## The Broader Picturev
 
 In the early days of RP, people with vastly different ideological and cultural backgrounds would play together — truckers playing from their trucks, veterans, women, people of color, people from across the spectrum — all enmeshed in the same world. GTA V RP became, for many players, a space to explore identity, build social skills, and experience forms of storytelling that no other medium could offer.
 
