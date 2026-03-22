@@ -11,8 +11,5 @@ Looking for ready-made tools to run your server?
 
 I sell Google Sheets templates built specifically for GTA V.
 The project can be found [here](https://github.com/Apollo-Flight-Program/GTA-V-Roleplay-Templates-and-Tools)
-RP server management:
-
-- Upcoming...
 
 All templates are built with Google Apps Script automation.
