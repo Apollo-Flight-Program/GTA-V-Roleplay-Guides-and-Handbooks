@@ -32,10 +32,10 @@ Every server is different. Always read the specific server's rules before playin
 Every server has a rulebook. Read it fully. Ignorance of the rules is never an accepted excuse.
 
 **2. Create a character**
-Do not log in without at least a basic idea of who your character is. See the [Character Creation Guide](character-creation.md) for help.
+Do not log in without at least a basic idea of who your character is. See the [Character Creation Guide](02-Character-Creation.md) for help.
 
 **3. Understand IC and OOC**
-Know the difference between speaking as your character and speaking as yourself. See [IC vs OOC](IC-vs-OOC.md).
+Know the difference between speaking as your character and speaking as yourself. See [IC vs OOC](03-IC-vs-OOC.md).
 
 **4. Learn what metagaming and powergaming are**
 These are the two most common ways new players break the rules without realizing it. See [Metagaming & Powergaming](Metagaming-and-Powergaming.md).
@@ -43,8 +43,9 @@ These are the two most common ways new players break the rules without realizing
 ---
 
 ## Your First Hours
+This is the recommended rundown of your play.
 
-**Start as a civilian**
+**Start as a civilian** 
 Do not apply for police, EMS, or any whitelisted role immediately. Spend your first hours simply existing in the world as a regular civilian. Walk around, talk to people, observe how experienced players behave.
 
 **Listen more than you talk**
@@ -151,7 +152,6 @@ The story is already happening — go be part of it.
 ---
 
 *Continue reading:*
-- [What is Roleplay?](what-is-roleplay.md)
-- [IC vs OOC](ic-vs-ooc.md)
+- [IC vs OOC](02-IC-vs-OOC.md)
 - [Metagaming & Powergaming](metagaming-and-powergaming.md)
 - [Character Creation Guide](character-creation.md)

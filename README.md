@@ -18,18 +18,72 @@ Disclaimer: This project was assisted by AI for more accurate contents. And the 
 
 ```
 GTA-V-Roleplay-Guides-and-Handbooks/
-├── README.md               ← You are here
-├── CONTRIBUTING.md         ← How to contribute
-├── LICENSE                 ← CC0 1.0 Universal
+├── README.md                        ← You are here
+├── CONTRIBUTING.md                  ← How to contribute
+├── LICENSE                          ← CC0 1.0 Universal
 │
-├── general/                ← Platform-agnostic guides (rules, etiquette, basics)
-├── fivem/                  ← FiveM-specific guides and handbooks
-├── ragemp/                 ← RageMP-specific guides and handbooks
-├── altv/                   ← alt:V-specific guides and handbooks
-└── other/                  ← Guides for other platforms or tools
+├── Roleplay-in-General/             ← Universal RP concepts, etiquette, and foundations
+│   ├── 001-Beginners-Guide.md
+│   ├── What-Is-Roleplay.md
+│   ├── IC-vs-OOC.md
+│   ├── Golden-Rules-of-Roleplay.md
+│   ├── Character-Creation.md
+│   ├── Metagaming-and-Powergaming.md
+│   ├── Fear-RP-and-Value-of-Life.md
+│   ├── Conflict-Resolution.md
+│   ├── Permadeath-Guide.md
+│   ├── Advanced-Roleplay-Techniques.md
+│   ├── Scenario-Based-Examples.md
+│   └── Roleplay-Cultures.md
+│
+├── Guides-To-Each-Role/             ← Role-specific guides and in-character handbooks
+│   ├── Aviation/
+│   │   ├── Aviation-Overview.md
+│   │   ├── Pilot-Licensing-Guide.md
+│   │   ├── Civilian-Pilot-Handbook.md  ← In-character SADA civilian pilot handbook
+│   │   ├── Police-Aviation-Guide.md
+│   │   └── Air-Ambulance-Guide.md
+│   ├── Business/
+│   ├── Civilian/
+│   ├── Criminal/
+│   ├── Emergency-Medical-Services/
+│   ├── Government/
+│   │   ├── Government-Roleplay-Overview.md
+│   │   ├── Mayor-and-City-Council.md
+│   │   ├── Department-of-Justice.md
+│   │   ├── Judge-and-Legal-System.md
+│   │   └── Lawyer-Guide.md
+│   ├── Judicial/
+│   ├── Law-Enforcement/
+│   │   ├── In-Character-Guides/
+│   │   └── Out-of-Character-Guides/
+│   ├── Media-and-Entertainment/
+│   └── Military/
+│       ├── Military-Roleplay-Overview.md
+│       ├── Military-Airforce-Guide.md
+│       ├── Military-Airforce-Handbook.md  ← In-character SAMAF personnel handbook
+│       ├── Military-Police-Guide.md
+│       ├── National-Guard-Guide.md
+│       └── Special-Forces-Guide.md
+│
+├── References/                      ← Quick-reference sheets used across all roles
+│   ├── NATO-Alphabet.md
+│   ├── 10-Codes.md
+│   ├── Radio-Etiquette.md
+│   ├── Dispatch-Codes-Reference.md
+│   ├── Common-RP-Terms-Glossary.md
+│   ├── Los-Santos-Map-Guide.md
+│   ├── Vehicle-Classes-Reference.md
+│   ├── Penal-Code-Template.md
+│   └── Airforce-Operational-Terms-and-Jargon.md  ← Military aviation jargon and callouts
+│
+└── Guides-for-Server-Owners/        ← Guides for running and managing RP servers
+    ├── Server-Owner-Guide.md
+    ├── Admin-Guide.md
+    └── Game-Master-Guide.md
 ```
 
-Each subfolder may contain further categorisation (e.g. `fivem/law-enforcement/`, `general/new-player/`). Follow the existing structure when adding files.
+Each folder is self-contained. Follow the existing structure when adding files — role-specific content goes in `Guides-To-Each-Role/`, universal quick-reference material goes in `References/`.
 
 ---
 

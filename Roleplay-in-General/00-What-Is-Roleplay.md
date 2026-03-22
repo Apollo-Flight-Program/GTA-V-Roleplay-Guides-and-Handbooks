@@ -68,9 +68,5 @@ Good roleplay is not about being the best actor. It is about:
 
 ## Next Steps
 
-If you are new to roleplay, read these guides next:
-
-- [IC vs OOC — Understanding the Divide](ic-vs-ooc.md)
-- [Metagaming & Powergaming — What to Avoid](metagaming-and-powergaming.md)
-- [Character Creation Guide](character-creation.md)
-- [Beginner's Guide to GTA V RP](beginners-guide.md)
+If you are new to roleplay, continue read:
+- [Beginner's Guide to GTA V RP](001-Beginners-Guide.md)
